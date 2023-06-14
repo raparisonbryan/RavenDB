@@ -52,6 +52,24 @@ git --version
 ```
 Vous devriez voir s'afficher le numéro de version de Git si l'installation s'est déroulée avec succès.
 
+### Configuration de Git
+
+Après avoir installé Git, vous devez configurer votre nom d'utilisateur et votre adresse e-mail pour associer vos informations d'identification aux commits de Git. Voici comment procéder :
+
+Ouvrez une nouvelle fenêtre de terminal ou de ligne de commande.
+
+Configurez votre nom d'utilisateur en exécutant la commande suivante, en remplaçant "Your Name" par votre propre nom :
+
+```bash
+git config --global user.name "Your Name"
+```
+Configurez votre adresse e-mail en exécutant la commande suivante, en remplaçant "your-email@example.com" par votre propre adresse e-mail :
+
+```bash
+git config --global user.email "your-email@example.com"
+```
+Félicitations ! Vous avez maintenant Git installé et configuré sur votre système.
+
 ### Création d'un dépôt Git
 
 1. Accédez au répertoire racine de votre projet à l'aide d'un terminal ou d'une ligne de commande.
