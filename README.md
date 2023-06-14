@@ -1,4 +1,4 @@
-# Documentation de RavenDB
+# Documentation de RavenDB avec Node.js
 
 Cette documentation fournit un guide étape par étape pour l'installation de RavenDB sur Windows, sa configuration, la création d'une base de données et les opérations CRUD de base.
 
